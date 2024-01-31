@@ -1,0 +1,17 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "git.ignoreLimitWarning": true,
+  "idf.portWin": "COM6",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "*.py": "python",
+    "esp_log.h": "c",
+    "timers.h": "c",
+    "freertosconfig.h": "c",
+    "ledc.h": "c"
+  }
+}
